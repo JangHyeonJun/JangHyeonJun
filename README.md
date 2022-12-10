@@ -4,8 +4,7 @@
 
 </div>
 
-### Server Programmer
-- [V4](https://v4.nexon.com/) (Server Programmer, NEXON GAMES, 2020.02 ~ ) 
+### Game Server Programmer
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=janghyeonjun&include_all_commits=true)
 
