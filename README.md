@@ -1,7 +1,7 @@
 ### Game Server Programmer
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=janghyeonjun&include_all_commits=true)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=janghyeonjun&show_icons=true&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=janghyeonjun&layout=compact)
 
 <div align=center>
 
