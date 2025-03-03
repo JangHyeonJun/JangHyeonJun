@@ -5,7 +5,7 @@
 
 <div align=center>
 
-[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog(deprecated)-black?style=flat-square&logo=github&link=https://janghyeonjun.github.io/)](https://janghyeonjun.github.io/) 
+[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://janghyeonjun.github.io/)](https://janghyeonjun.github.io/) 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/janghyeonjun/)](https://www.linkedin.com/in/janghyeonjun/) 
 
 </div>
